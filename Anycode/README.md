@@ -28,17 +28,17 @@ S.M.Jaazib Anwaar
 
 ## Screenshots
 ### Main Window 
-![Main Window](sccrenshots/Main-UI.png)
+![Main Window](screenshots/Main-UI.png)
 
 ### Error Highlighting
-![Main Window](sccrenshots/Main-UI.png)
+![Main Window](screenshots/Main-UI.png)
 
 ### Find and Replace
-![Find and Replace](sccrenshots/Find_Replace.png)
+![Find and Replace](screenshots/Find_Replace.png)
 
 ### Replacements
-![Replacements](sccrenshots/Replacements.png)
+![Replacements](screenshots/Replacements.png)
 
 ### Code Snapshot
-![Code Snapshot](sccrenshots/Code_Snapshot.png)
+![Code Snapshot](screenshots/Code_Snapshot.png)
 
