@@ -24,7 +24,7 @@ AnyCode is a Java Swing-based code editor
 - Run Main.java
   
 ## Author
-S.M.Jaazib Anwaar
+S. M. Jaazib Anwaar
 
 ## Screenshots
 ### Main Window 
