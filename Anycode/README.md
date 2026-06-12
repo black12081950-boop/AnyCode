@@ -31,10 +31,10 @@ S.M.Jaazib Anwaar
 ![Main Window](screenshots/Main-UI.png)
 
 ### Error Highlighting
-![Main Window](screenshots/Main-UI.png)
+![Main Window](screenshots/Error.png)
 
-### Find and Replace
-![Find and Replace](screenshots/Find_Replace.png)
+### Find
+![Find](screenshots/Find_Replace.png)
 
 ### Replacements
 ![Replacements](screenshots/Replacements.png)
